@@ -1,0 +1,10 @@
+c:\Users\Eric Browne\gitProjects\schoolProjects\LundsUniversityDB\LundsUniversity\bin\Debug\LundsUniversity.dacpac
+c:\Users\Eric Browne\gitProjects\schoolProjects\LundsUniversityDB\LundsUniversity\bin\Debug\LundsUniversity.dll
+c:\Users\Eric Browne\gitProjects\schoolProjects\LundsUniversityDB\LundsUniversity\bin\Debug\LundsUniversity.pdb
+c:\Users\Eric Browne\gitProjects\schoolProjects\LundsUniversityDB\LundsUniversity\obj\Debug\LundsUniversity.sqlproj.AssemblyReference.cache
+c:\Users\Eric Browne\gitProjects\schoolProjects\LundsUniversityDB\LundsUniversity\obj\Debug\Model.xml
+c:\Users\Eric Browne\gitProjects\schoolProjects\LundsUniversityDB\LundsUniversity\obj\Debug\refactor.xml
+c:\Users\Eric Browne\gitProjects\schoolProjects\LundsUniversityDB\LundsUniversity\obj\Debug\postdeploy.sql
+c:\Users\Eric Browne\gitProjects\schoolProjects\LundsUniversityDB\LundsUniversity\obj\Debug\predeploy.sql
+c:\Users\Eric Browne\gitProjects\schoolProjects\LundsUniversityDB\LundsUniversity\obj\Debug\LundsUniversity.dll
+c:\Users\Eric Browne\gitProjects\schoolProjects\LundsUniversityDB\LundsUniversity\obj\Debug\LundsUniversity.pdb

@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Eric Browne\\gitProjects\\schoolProjects\\LundsUniversityDB\\LundsUniversity\\LundsUniversity.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Eric Browne\\gitProjects\\schoolProjects\\LundsUniversityDB\\LundsUniversity\\LundsUniversity.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Eric Browne\\gitProjects\\schoolProjects\\LundsUniversityDB\\LundsUniversity\\LundsUniversity.sqlproj",
+        "projectName": "LundsUniversity",
+        "projectPath": "c:\\Users\\Eric Browne\\gitProjects\\schoolProjects\\LundsUniversityDB\\LundsUniversity\\LundsUniversity.sqlproj",
+        "packagesPath": "C:\\Users\\Eric Browne\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Eric Browne\\gitProjects\\schoolProjects\\LundsUniversityDB\\LundsUniversity\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Eric Browne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
